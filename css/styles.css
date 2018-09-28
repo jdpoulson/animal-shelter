@@ -1,0 +1,35 @@
+.animal1 {
+  background-color: yellow;
+  font-style: italic;
+  font-family: arial, times, cursive;
+}
+
+.animal2 {
+  background-color: pink;
+  font-style: italic;
+  font-family: cursive;
+}
+
+.animal3 {
+  background-color: lime;
+  font-style: italic;
+}
+
+.animal {
+  float: left;
+  width: 30%;
+  margin-left: 5px;
+  padding: 10px;
+}
+
+.ending {
+  width: 10%;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
